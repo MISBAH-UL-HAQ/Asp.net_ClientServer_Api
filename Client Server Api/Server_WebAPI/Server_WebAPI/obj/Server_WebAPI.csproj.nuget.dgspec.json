@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\C#\\API\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj": {}
+    "D:\\Practice\\CSharp\\API\\Client Server Api\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\C#\\API\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj": {
+    "D:\\Practice\\CSharp\\API\\Client Server Api\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\C#\\API\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj",
+        "projectUniqueName": "D:\\Practice\\CSharp\\API\\Client Server Api\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj",
         "projectName": "Server_WebAPI",
-        "projectPath": "D:\\Practice\\C#\\API\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj",
+        "projectPath": "D:\\Practice\\CSharp\\API\\Client Server Api\\Server_WebAPI\\Server_WebAPI\\Server_WebAPI.csproj",
         "packagesPath": "C:\\Users\\KanthMisbahUlHaq\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\C#\\API\\Server_WebAPI\\Server_WebAPI\\obj\\",
+        "outputPath": "D:\\Practice\\CSharp\\API\\Client Server Api\\Server_WebAPI\\Server_WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

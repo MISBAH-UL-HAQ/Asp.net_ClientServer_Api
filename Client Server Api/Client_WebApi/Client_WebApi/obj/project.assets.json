@@ -5573,11 +5573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practice\\C#\\API\\Client_WebApi\\Client_WebApi\\Client_WebApi.csproj",
+      "projectUniqueName": "D:\\Practice\\CSharp\\API\\Client Server Api\\Client_WebApi\\Client_WebApi\\Client_WebApi.csproj",
       "projectName": "Client_WebApi",
-      "projectPath": "D:\\Practice\\C#\\API\\Client_WebApi\\Client_WebApi\\Client_WebApi.csproj",
+      "projectPath": "D:\\Practice\\CSharp\\API\\Client Server Api\\Client_WebApi\\Client_WebApi\\Client_WebApi.csproj",
       "packagesPath": "C:\\Users\\KanthMisbahUlHaq\\.nuget\\packages\\",
-      "outputPath": "D:\\Practice\\C#\\API\\Client_WebApi\\Client_WebApi\\obj\\",
+      "outputPath": "D:\\Practice\\CSharp\\API\\Client Server Api\\Client_WebApi\\Client_WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
